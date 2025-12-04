@@ -1,8 +1,5 @@
 * [Home](/)
 
-<details>
-  <summary><a href="/Kia/index.md">Kia</a></summary>
+* Kia
+    * [Rio](/Kia/Rio/index.md)
 
-  * [Rio](/Kia/Rio/index.md)
-
-</details>
