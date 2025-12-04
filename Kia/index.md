@@ -1,2 +1,2 @@
 ## Kia models
-- [Rio](/Kia/Rio)
+- [Rio](/Kia/Rio/index.md)
