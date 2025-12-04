@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 
   </head>
 
@@ -21,7 +22,11 @@
         repo: "https://github.com/colexdev/silence-my-car",
 
         loadSidebar: true,
-        // loadNavbar: true,
+        alias: {
+          '/.*/_sidebar.md': '/_sidebar.md',
+        },
+        subMaxLevel: 3,
+        sidebarDisplayLevel: 1, // set sidebar display level
 
         homepage: "index.md",
 
@@ -60,8 +65,7 @@
     <!-- Search -->
     <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
         
-    <script src="https://cdn.jsdelivr.net/npm/docsify-collapsible/dist/docsify-collapsible.min.js"></script>
-
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   </body>
 </html>
 
