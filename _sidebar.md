@@ -1,5 +1,4 @@
-- ### Cars
-
-- Kia
-    - Rio
-        - [2020-2025](/Kia/Rio/2025.md)
+### Cars
+    - Kia
+        - Rio
+            - [2020-2025](/Kia/Rio/2025.md)
