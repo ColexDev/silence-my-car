@@ -1,3 +1,3 @@
 * [Home](/)
-* [Kia](/Kia/index.md)
+* Kia
     * [Rio](/Kia/Rio/index.md)
